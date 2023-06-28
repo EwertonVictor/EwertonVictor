@@ -2,8 +2,8 @@
 
 <a href="https://github.com/EwertonVictor/github-readme-stats">
 <div>
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=EwertonVictor&theme=dark&show_icons=true#gh-light-mode-only"/>
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonVictor&theme=dark&layout=compact"/>
+  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=EwertonVictor&theme=dark&show_icons=true#gh-light-mode-only"/>
+  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonVictor&theme=dark&layout=compact"/>
 </div>
 
 <div style="display: inline_block"><br>
