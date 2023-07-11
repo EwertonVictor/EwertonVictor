@@ -1,5 +1,5 @@
 ## Hello World! 🖖🏼
-<a href="https://github.com/EwertonVictor/github-readme-stats">
+<a href="https://github.com/EwertonVictor">
 <div>
   <img height="168" align="center" src="https://github-readme-stats.vercel.app/api?username=EwertonVictor&theme=dark&show_icons=true"/>
   <img height="168" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonVictor&theme=dark&layout=compact"/>
