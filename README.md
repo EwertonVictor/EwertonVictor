@@ -4,7 +4,6 @@
 
 Me chamo Ewerton Victor. Atuo como desenvolvedor full-stack Java e curso Análise e Desenvolvimento de Sistemas na UNINASSAU, em Recife. Minha prioridade é criar sistemas bem estruturados e manter uma evolução técnica constante.
 
----
 ### 🤖 Linguagens e Tecnologias
 
 <img
@@ -54,25 +53,3 @@ Me chamo Ewerton Victor. Atuo como desenvolvedor full-stack Java e curso Anális
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<br></br>
-
----
-### 📊 Estatísticas
-
-<p>
-    <img 
-        align="left"
-        alt="GitHub Stats"
-        height="200"
-        style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=EwertonVictor&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
-    />
-
-   <img
-        align="left"
-        alt="GitHub Technologies"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonVictor&theme=radical&layout=donut&custom_title=Tecnologias"
-    />
-</p>
