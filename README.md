@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack Java`**
 
-Me chamo Ewerton Victor. Atuo como desenvolvedor full-stack Java e curso Análise e Desenvolvimento de Sistemas na UNINASSAU, em Recife. Minha prioridade é criar sistemas bem estruturados e manter uma evolução técnica constante.
+Me chamo Ewerton Victor. Atuo como desenvolvedor web full-stack Java e curso Engenharia de Software na Estácio, em Recife. Minha prioridade é criar sistemas bem estruturados e manter uma evolução técnica constante.
 
 ### 🤖 Linguagens e Tecnologias
 
